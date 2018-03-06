@@ -1,0 +1,16 @@
+/*Additional CSS that is not specified by bootstrap, such as the background image*/
+
+body {
+    background-image: url("../images/SiteBackground1.png");
+}
+
+footer {
+    background-color: #666666;
+    height: 80px;
+    border-top-style: solid;
+    border-top-width: 10px;
+    border-top-color: #4aaaa5;
+    text-align: center;
+    padding-top: 10px;
+    color: #ffffff;
+}
