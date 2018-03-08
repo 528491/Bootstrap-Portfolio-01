@@ -30,6 +30,11 @@ h2 {
     margin-right: 15px;
 }
 
+navbar {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
 footer {
     background-color: #666666;
     height: 80px;
@@ -39,4 +44,12 @@ footer {
     text-align: center;
     padding-top: 10px;
     color: #ffffff;
+}
+
+#ProfilePicture {
+    max-height: 150px;
+}
+
+#blankSpaceNearTopOfPage {
+    height: 25px;
 }
